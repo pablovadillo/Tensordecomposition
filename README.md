@@ -46,6 +46,12 @@ The repository is organized as follows:
 │   ├── tensor_300.npy
 │   └── parafac2_data.npy
 │
+├── uncent_data/                        # Real data tensors without centering preprocessing
+│   ├── tensor_70.npy
+│   ├── tensor_100.npy
+│   ├── tensor_200.npy
+│   ├── tensor_300.npy
+│
 ├── simulated_data/                   # Simulated data tensors 
 │   ├── tensor_1.npy
 │   ├── tensor_2.npy
