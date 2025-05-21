@@ -8,6 +8,8 @@ This repository contains the full set of code, supplementary figures, and result
 
 The project applies tensor decomposition techniques—specifically CP, Tucker, and PARAFAC2—to time-resolved γδ T cell receptor sequencing data from sarcoma patients. The aim is to discover interpretable structure in the data and explore immunological dynamics through unsupervised methods.
 
+Note: This code is written to work with the original data, which contains sensitive patient information and is not included here. For privacy reasons, this repository includes a modified version of the dataset. Users may need to adjust data paths, variable names, or preprocessing steps to match their own dataset structure.
+
 ---
 
 ## Repository Structure
