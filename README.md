@@ -18,7 +18,7 @@ The repository is organized as follows:
 
 ```
 .
-├── Clinical info_v2.2.xlsx           # Clinical metadata (e.g., treatment days, response)
+├── Clinical info_anonymized.xlsx     # Clinical data (minimal, anonnymised version)
 ├── Cluster_comparison.ipynb          # NMI-based cluster evaluation scripts
 ├── CP_decomposition.ipynb            # CP decomposition analysis
 ├── Dataset_exploration.ipynb         # Initial exploration of dataset and patient data
@@ -32,7 +32,7 @@ The repository is organized as follows:
 ├── README.md                         # Project description and documentation
 ├── Simulation.ipynb                  # Synthetic data generation 
 ├── TCR_metrics.ipynb                 # TCR diversity/clonality metric calculations
-├── TCR_seq_new.xlsx                  # TCR sequencing count and frequency data (raw)
+├── TCR_seq_anonymized.xlsx           # TCR sequencing count and frequency data (minimal version)
 ├── Tensor_construction.ipynb         # Tensor creation from raw counts
 ├── Tucker_clustering.ipynb           # Clustering on Tucker component space
 ├── Tucker_components.ipynb           # DIFIT, SVD and reconstruction error plots
