@@ -106,12 +106,5 @@ These figures complement the main thesis and are referenced throughout the appen
 
 If you use this work, please cite:
 
-```bibtex
-@mastersthesis{vadillomoreno2025tensor,
-  author = {Vadillo, Pablo and Moreno, Violant},
-  title = {Tensor Decomposition for Time-Resolved Immune Cell Sequencing in Cancer},
-  school = {Chalmers University of Technology},
-  year = {2025}
-}
-```
+Pending for publication
 
