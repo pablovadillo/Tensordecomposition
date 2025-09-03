@@ -106,5 +106,6 @@ These figures complement the main thesis and are referenced throughout the appen
 
 If you use this work, please cite:
 
-Pending for publication
+Vadillo Berganza, Pablo & Moreno Creixell, Violant. (2025). Tensor decomposition for time-resolved immune cell sequencing in cancer. Chalmers.se. [http://hdl.handle.net/20.500.12380/310382](http://hdl.handle.net/20.500.12380/310382)
 
+‌
